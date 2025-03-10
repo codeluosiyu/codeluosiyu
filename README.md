@@ -18,14 +18,12 @@ Here are some ideas to get you started:
 
 ### 👨‍🚒 关于我
 
-- 🤔 热衷于前端工程化和游戏开发，我的公众号是“程序员思语”~
-- ⚡ 在steam上发布多款独立自研的小游戏~
-- 💬 我写了一套专栏[Vue2源码解析](https://godbasin.github.io/vue-ebook/)，以及[《小程序编年史》](https://www.ituring.com.cn/book/2942)~
-- 📫 欢迎来[我的前端兵工厂](https://godbasin.github.io/front-end-playground/)一起玩~
-- 😄 最近刚开始学着做视频分享啦（[B站: 程序员思语](https://space.bilibili.com/42233366)）！
+- 🤔 热衷于小程序开发和工程优化，我的稀土掘金是“程序员徐婵”~
+- ⚡ 专注于微信小程序和微信小游戏，主要负责过30+小程序小游戏的开发~
+- 💬 我写了一套前端微信小程序组件库[UI](https://codeluosiyu.github.io/miniprogram/component/basic/button.html)~
+- 📫 欢迎来[我的前端兵工厂]([https://godbasin.github.io/front-end-playground/](https://codeluosiyu.github.io/interview/function/subscribeMsg.html))一起玩~
 
 ### 🔥 我的项目
 
-- 🔰 [`程序员思语前端博客`](https://github.com/godbasin/godbasin.github.io) My Blog.
+- 🔰 [`程序员徐婵前端博客`](https://github.com/godbasin/godbasin.github.io) My Blog.
 - 🌱 [`小程序编年史`](https://github.com/godbasin/wxapp-typescript-demo) Miniprogram typescript demo.
-- 📃 [`vue select2 component`](https://github.com/godbasin/vue-select2) [`box2djs-tutorial`](https://github.com/godbasin/box2djs-tutorial) [`《深入理解Vue.js实战》`](https://github.com/godbasin/vue-ebook)  ...
