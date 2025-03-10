@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ### 🔥 我的项目
 
 - 🔰 [`程序员徐婵前端博客`]([https://github.com/godbasin/godbasin.github.io](https://codeluosiyu.github.io/)) My Blog.
-- 🌱 [`小程序编年史`](https://github.com/godbasin/wxapp-typescript-demo) Miniprogram typescript demo.
+- 🌱 [`小程序编年史`]([https://github.com/godbasin/wxapp-typescript-demo](https://codeluosiyu.github.io/interview/function/subscribeMsg.html)) Miniprogram typescript demo.
